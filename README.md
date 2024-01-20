@@ -30,4 +30,4 @@ Contributions, bug reports, and feature requests are welcome! Feel free to fork 
 [Link to any relevant documentation, articles, or resources]
 
 📋 License:
-This repository is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This repository is licensed under the MIT License - see the [MIT License](./LICENSE) file for details.
