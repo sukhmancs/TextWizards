@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <!--<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGYyZTUyYjAwNGYwZDk0M2EwNGNiYWZjMTg2N2Y2ZGVhZDYyOTZlMSZjdD1z/HwBlFQZFcAoUcPHZdX/giphy.gif" width="100"/>-->
-  <img src="https://media.giphy.com/media/h0Cq1ClzO3UpupFPjP/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="150"/>
   
   <div id="badges">
     <a href="https://www.linkedin.com/in/singh-sukhmanjeet/">
@@ -14,7 +14,8 @@
     </a>
   </div>
   <h1>
-    🚀 NLP Projects Repository 🤖    
+    🚀 NLP Projects Repository    
+    <img src="https://media.giphy.com/media/PUE7NHFFQ0j6rkFZgV/giphy.gif" width="40px"/>
   </h1>
 </div>
 
