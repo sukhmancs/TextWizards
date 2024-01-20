@@ -1,7 +1,21 @@
-<div align="center">
+<div id="header" align="center">
+  <!--<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGYyZTUyYjAwNGYwZDk0M2EwNGNiYWZjMTg2N2Y2ZGVhZDYyOTZlMSZjdD1z/HwBlFQZFcAoUcPHZdX/giphy.gif" width="100"/>-->
+  <img src="https://media.giphy.com/media/h0Cq1ClzO3UpupFPjP/giphy.gif" width="200"/>
   
-# 🚀 NLP Projects Repository 🤖
-
+  <div id="badges">
+    <a href="https://www.linkedin.com/in/singh-sukhmanjeet/">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+    <a href="https://www.reddit.com/user/sukhmang">
+      <img src="https://img.shields.io/badge/Reddit-white?style=for-the-badge&logo=reddit&logoColor=red" alt="Reddit Badge"/>
+    </a>
+    <a href="https://twitter.com/mijugilo">
+      <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    </a>
+  </div>
+  <h1>
+    🚀 NLP Projects Repository 🤖    
+  </h1>
 </div>
 
 This repository houses a collection of my natural language processing (NLP) projects, showcasing a variety of applications and experiments in the field. From sentiment analysis to language modeling, explore the power of NLP through my code. Feel free to use, modify, and contribute!
