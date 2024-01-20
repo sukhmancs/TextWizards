@@ -11,18 +11,42 @@ This repository houses a collection of my natural language processing (NLP) proj
 - Named Entity Recognition
 - Text Classification
 - Language Modeling
-- [Add any other specific features]
+- Encoder-Decoder Architecture with Attention
+- Transformers
+- Recurrent Neural Network
+- Fine-tuning using HuggingFace
+- Word Embeddings
+- Machine Translation
+- 🤖 Intelligent Conversational Chatbot
 
 ### 🌐 **Technologies Used:**
 - Python
 - TensorFlow
 - PyTorch
 - NLTK
-- [Add any other relevant technologies]
+- Trax
+- Pandas
+- Numpy
 
 ### 👨‍💻 **How to Use:**
 
-[Provide basic instructions or links to documentation]
+To run any of the projects in Google Colab, follow these simple steps:
+
+1. **Open in Colab:**
+   - Click on the "Open in Colab" at the top of any notebook.
+
+2. **Set Up the Environment:**
+   - If required, follow the instructions within the Colab notebook to set up any necessary environment or dependencies.
+
+3. **Run the Code:**
+   - Execute the code cells in the notebook one by one to observe the results or modify them as needed.
+
+4. **Explore and Learn:**
+   - Feel free to experiment with the code, modify parameters, and gain hands-on experience with natural language processing.
+
+**Note:** Make sure to check the license information before using or modifying the code.
+
+Happy coding! 🚀
 
 ### 🤝 **Contributions:**
 
@@ -30,7 +54,11 @@ Contributions, bug reports, and feature requests are welcome! Feel free to fork 
 
 ### 📚 **Resources:**
 
-[Link to any relevant documentation, articles, or resources]
+#### Books
+
+- [Deep Learning with Pytorch Step-by-Step](https://pytorchstepbystep.com/) by Daniel Voigt Godoy.
+   - A comprehensive guide to understanding and implementing NLP techniques in real-world applications. Covers key concepts, algorithms, and practical examples.
+
 
 ### 📋 **License:**
 
