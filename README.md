@@ -42,7 +42,7 @@ This repository houses a collection of my natural language processing (NLP) proj
 - Trax
 - Pandas
 - Numpy
-
+        
 ### 👨‍💻 **How to Use:**
 
 To run any of the projects in Google Colab, follow these simple steps:
